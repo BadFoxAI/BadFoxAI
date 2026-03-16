@@ -21,7 +21,7 @@ Building at the intersection of Rust, WebAssembly, and creative tooling.
 #### 🔍 [rust-sys-scan](https://github.com/BadFoxAI/rust-sys-scan)
 > System-level scanning and data visualization tool.
 - **Tech:** Rust
-
+- [**View Live Demo**](https://rust-sys-scan.netlify.app)
 ---
 
 ### 📩 Contact
