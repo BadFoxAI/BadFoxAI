@@ -1,4 +1,4 @@
-# 👋 BadFoxAI
+# 🦊 BadFoxAI
 **Experimental Art / Tech Developer**
 
 Building at the intersection of Rust, WebAssembly, and creative tooling.
