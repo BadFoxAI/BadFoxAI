@@ -10,6 +10,8 @@
 - **Tech:** Rust, JavaScript
 - [**View Live Demo**](https://rust-dj.netlify.app)
 
+---
+
 ### 📩 Contact
 For professional inquiries or collaboration:
 - **Email:** `{ BadFoxAI } @ gmail . com`
