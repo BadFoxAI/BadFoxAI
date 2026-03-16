@@ -1,4 +1,4 @@
-# 🦊 BadFoxAI
+# BadFoxAI 🦊
 **Experimental Art / Tech Development**
 
 ---
